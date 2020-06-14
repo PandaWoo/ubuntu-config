@@ -1,0 +1,25 @@
+[user]
+    name = laura woo
+    email = laura.woo.92@gmail.com
+#	signingkey = 
+
+[color]
+    ui = auto
+    decorate = short
+
+[push]
+	default = simple
+
+[alias]
+    ci = commit
+    co = checkout 
+    st = status
+
+[core]
+	editor = vim
+
+[url "git@github.com:"]
+	insteadOf = https://github.com/
+
+#[gpg]
+#    program = gpg
